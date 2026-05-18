@@ -10,4 +10,4 @@ This repository documents my study and practice of HTML fundamentals as part of 
 - Develop consistent coding habits and organization
 - Prepare for advanced HTML and CSS topics
 
-[HTML & CSS YouTube Link](https://youtu.be/G3e-cpL7ofc?si=pqU-lrv-PREy0Lc6)
+#### [HTML & CSS YouTube Link](https://youtu.be/G3e-cpL7ofc?si=pqU-lrv-PREy0Lc6) by SuperSimpleDev 
