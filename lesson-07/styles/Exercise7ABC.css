@@ -1,0 +1,19 @@
+.imgA {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.imgB {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.imgC {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 125px;
+}

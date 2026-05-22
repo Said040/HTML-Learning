@@ -1,0 +1,22 @@
+.textboxD {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+.textboxE {
+  border: none;
+  font-size: 16px;
+  width: 500px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+  padding-left: 10px;
+  border-radius: 200px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+}

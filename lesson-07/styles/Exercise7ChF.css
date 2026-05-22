@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: grey;
+}
+
+.email {
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+
+.search {
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.statement {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.button {
+  background-color: rgb(46, 46, 254);
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 16px;
+  text-align: center;
+  width: 400px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
