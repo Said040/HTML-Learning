@@ -1,0 +1,36 @@
+.name {
+  width: 100px;
+  margin-bottom: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+}
+
+.email {
+  display: block;
+  width: 220px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+}
+
+.signUp {
+  font-family: Arial;
+  ;
+  text-align: center;
+  background-color: rgb(56, 56, 252);
+  color: white;
+  width: 235px;
+  border-radius: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-top: 7px;
+}

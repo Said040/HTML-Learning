@@ -1,0 +1,44 @@
+.title {
+  font-family: Arial;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.input {
+  font-family: Arial;
+  font-size: 10px;
+
+  margin-bottom: 3px;
+  background-color: rgb(220, 220, 220);
+
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+
+  width: 300px;
+  border: none;
+  display: block;
+}
+
+button {
+  font-family: Arial;
+  font-size: 10px;
+  margin-top: 15px;
+  margin-right: 5px;
+  border: none;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.buttonRequest {
+  background-color: black;
+  color: white;
+}
+
+.buttonSchedule {
+  background-color: rgb(220, 220, 220);
+  ;
+}
