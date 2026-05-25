@@ -1,0 +1,12 @@
+.question {
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+  width: 300px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+.textFont {
+  font-family: Arial;
+}
