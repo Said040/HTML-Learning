@@ -1,0 +1,27 @@
+.grid1 {
+  display: grid;
+  grid-template-columns: 200px 75px;
+  margin-bottom: 20px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+  margin-bottom: 20px;
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 20px;
+  margin-bottom: 20px;
+}
+
+.lightBlue {
+  background-color: lightblue;
+}
+
+.lightPink {
+  background-color: lightpink;
+}
