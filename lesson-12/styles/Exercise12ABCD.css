@@ -1,0 +1,38 @@
+.lightBlue {
+  background-color: lightblue;
+}
+
+.lightPink {
+  background-color: lightpink;
+}
+
+.partA {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.partB {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.partC {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
+
+.partD {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  height: 50px;
+  align-items: center;
+}

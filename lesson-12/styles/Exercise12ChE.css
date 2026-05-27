@@ -1,0 +1,33 @@
+div {
+  font-family: Arial;
+}
+
+.inquiry {
+  border-style: solid;
+  border-color: grey;
+  border-radius: 5px;
+  border-width: 1px;
+  width: 350px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.blueCircle {
+  background-color: rgb(63, 63, 255);
+  color: white;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  font-weight: bold;
+}
