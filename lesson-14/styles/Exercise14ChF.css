@@ -1,0 +1,62 @@
+body {
+  height: 3000px;
+}
+
+div {
+  font-family: Arial;
+}
+
+.leftSidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(33, 33, 33);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+
+.middleBar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 70px;
+  background-color: rgb(45, 45, 45);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 150px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.info {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.new {
+  color: rgb(130, 130, 130);
+  font-size: 25px;
+}
+
+.section {
+  color: rgb(130, 130, 130);
+  margin-bottom: 15px;
+}

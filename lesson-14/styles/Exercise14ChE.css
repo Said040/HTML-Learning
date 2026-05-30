@@ -1,0 +1,59 @@
+body {
+  height: 3000px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+
+.name {
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.addFriendButton {
+  font-weight: bold;
+  background-color: rgb(66, 66, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.messageButton {
+  font-weight: bold;
+  background-color: rgb(200, 200, 200);
+  border: none;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
